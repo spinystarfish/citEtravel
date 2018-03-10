@@ -30,7 +30,7 @@ See also the list of [contributors](https://github.com/spinystarfish/citEtravel/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](http://kclarke-mit.license.org) for details
+This project is licensed under the MIT License - see the [LICENSE](http://kclarke.mit-license.org) for details
 
 ## Acknowledgments
 I would like to thank [w3schools](https://www.w3schools.com/html/default.asp) for their extremely helpful tutorials on how to use HTML5/CSS.
